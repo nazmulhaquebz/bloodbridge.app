@@ -1,0 +1,6 @@
+# Placeholder — Android APK
+
+The actual Blood Bridge Android APK will be attached to the GitHub Release.
+
+Download it from:
+https://github.com/nazmulhaquebz/bloodbridge-releases/releases/latest
