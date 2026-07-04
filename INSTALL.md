@@ -15,7 +15,7 @@
 ### Steps
 
 1. **Download** the APK from:  
-   https://github.com/nazmulhaquebz/bloodbridge-releases/releases/latest/download/bloodbridge.apk
+   https://github.com/nazmulhaquebz/bloodbridge.app/releases/latest/download/bloodbridge.apk
 
 2. **Enable Unknown Sources** on your device:
    - Android 8+: Settings → Apps → Special app access → Install unknown apps → [Your Browser] → Allow
@@ -39,7 +39,7 @@
 ### Steps
 
 1. **Download** the installer from:  
-   https://github.com/nazmulhaquebz/bloodbridge-releases/releases/latest/download/bloodbridge-setup.exe
+   https://github.com/nazmulhaquebz/bloodbridge.app/releases/latest/download/bloodbridge-setup.exe
 
 2. **Run** `bloodbridge-setup.exe`
 
@@ -107,6 +107,6 @@ After installing on any platform:
 
 ## Support
 
-- Bug reports: https://github.com/nazmulhaquebz/bloodbridge-releases/issues
+- Bug reports: https://github.com/nazmulhaquebz/bloodbridge.app/issues
 - Web app: https://bloodbridge-two.vercel.app
 - Email: nazmul2121@gmail.com

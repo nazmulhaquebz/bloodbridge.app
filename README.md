@@ -9,7 +9,7 @@
 **A humanitarian platform connecting blood donors with patients in emergency.**  
 🌍 Available worldwide · 🔒 Encrypted · 💯 Free forever
 
-[🌐 Visit Web App](https://bloodbridge-two.vercel.app) · [📖 Installation Guide](#-installation-guide) · [🐞 Report Issue](https://github.com/nazmulhaquebz/bloodbridge-releases/issues)
+[🌐 Visit Web App](https://bloodbridge-two.vercel.app) · [📖 Installation Guide](#-installation-guide) · [🐞 Report Issue](https://github.com/nazmulhaquebz/bloodbridge.app/issues)
 
 </div>
 
@@ -19,12 +19,12 @@
 
 | Platform | Version | File | Status |
 |----------|---------|------|--------|
-| 🤖 **Android** | v1.0.0 | [📥 bloodbridge.apk](https://github.com/nazmulhaquebz/bloodbridge-releases/releases/latest/download/bloodbridge.apk) | ✅ Available |
+| 🤖 **Android** | v1.0.0 | [📥 bloodbridge.apk](https://github.com/nazmulhaquebz/bloodbridge.app/releases/latest/download/bloodbridge.apk) | ✅ Available |
 | 🍎 **iOS (iPhone/iPad)** | v1.0.0 | App Store | 🔜 Coming Soon |
-| 🪟 **Windows** | v1.0.0 | [📥 bloodbridge-setup.exe](https://github.com/nazmulhaquebz/bloodbridge-releases/releases/latest/download/bloodbridge-setup.exe) | ✅ Available |
-| 🍏 **macOS** | v1.0.0 | [📥 bloodbridge.dmg](https://github.com/nazmulhaquebz/bloodbridge-releases/releases/latest/download/bloodbridge.dmg) | 🔜 Coming Soon |
+| 🪟 **Windows** | v1.0.0 | [📥 bloodbridge-setup.exe](https://github.com/nazmulhaquebz/bloodbridge.app/releases/latest/download/bloodbridge-setup.exe) | ✅ Available |
+| 🍏 **macOS** | v1.0.0 | [📥 bloodbridge.dmg](https://github.com/nazmulhaquebz/bloodbridge.app/releases/latest/download/bloodbridge.dmg) | 🔜 Coming Soon |
 
-> 💡 **Tip:** All files are attached to the [Releases page](https://github.com/nazmulhaquebz/bloodbridge-releases/releases). Click the release version to see all available downloads.
+> 💡 **Tip:** All files are attached to the [Releases page](https://github.com/nazmulhaquebz/bloodbridge.app/releases). Click the release version to see all available downloads.
 
 ---
 
@@ -35,7 +35,7 @@
 > **Requirements:** Android 8.0 (Oreo) or higher
 
 **Step 1 — Download**
-- Tap the [📥 Download Android APK](https://github.com/nazmulhaquebz/bloodbridge-releases/releases/latest/download/bloodbridge.apk) button above
+- Tap the [📥 Download Android APK](https://github.com/nazmulhaquebz/bloodbridge.app/releases/latest/download/bloodbridge.apk) button above
 - Wait for the `.apk` file to download to your phone
 
 **Step 2 — Allow Unknown Sources**
@@ -64,7 +64,7 @@ Since Blood Bridge is distributed directly (not through Play Store), you need to
 > **Requirements:** Windows 10 or higher (64-bit)
 
 **Step 1 — Download**
-- Click the [📥 Download Windows Installer](https://github.com/nazmulhaquebz/bloodbridge-releases/releases/latest/download/bloodbridge-setup.exe) button above
+- Click the [📥 Download Windows Installer](https://github.com/nazmulhaquebz/bloodbridge.app/releases/latest/download/bloodbridge-setup.exe) button above
 
 **Step 2 — Run the Installer**
 - Open your **Downloads** folder
@@ -110,7 +110,7 @@ Since Blood Bridge is distributed directly (not through Play Store), you need to
 ## 🔒 Security & Trust
 
 - All installers are built and published by the **Blood Bridge development team**
-- Only download from this **official repository**: `github.com/nazmulhaquebz/bloodbridge-releases`
+- Only download from this **official repository**: `github.com/nazmulhaquebz/bloodbridge.app`
 - Do **NOT** install `.apk` files from third-party websites or Telegram groups claiming to be Blood Bridge
 - The Android APK is signed with the official Blood Bridge certificate
 
@@ -131,14 +131,14 @@ A: Yes! Visit [bloodbridge-two.vercel.app](https://bloodbridge-two.vercel.app) f
 A: We're currently in the process of listing it. The APK can be installed directly in the meantime.
 
 **Q: I found a bug. Where do I report it?**  
-A: Open an [Issue](https://github.com/nazmulhaquebz/bloodbridge-releases/issues) on this repository.
+A: Open an [Issue](https://github.com/nazmulhaquebz/bloodbridge.app/issues) on this repository.
 
 ---
 
 ## 📞 Support
 
 - 🌐 Web App: [bloodbridge-two.vercel.app](https://bloodbridge-two.vercel.app)
-- 🐞 Bug Reports: [GitHub Issues](https://github.com/nazmulhaquebz/bloodbridge-releases/issues)
+- 🐞 Bug Reports: [GitHub Issues](https://github.com/nazmulhaquebz/bloodbridge.app/issues)
 - 📧 Email: nazmul2121@gmail.com
 
 ---
